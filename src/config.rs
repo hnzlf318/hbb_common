@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 <<<<<<< HEAD
-pub const RENDEZVOUS_SERVERS: &[&str] = &["F:\hbb_common\config.rs"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["F:\rustdeskzlf\hbb_common\src"];
 =======
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rs-ny.zlf.com"];
 >>>>>>> 3cd7d6f28ce98b2cdc9613d57f4e55babe624fa5
