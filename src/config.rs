@@ -98,11 +98,9 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-<<<<<<< HEAD
+
 pub const RENDEZVOUS_SERVERS: &[&str] = &["F:\rustdeskzlf\hbb_common\src"];
-=======
-pub const RENDEZVOUS_SERVERS: &[&str] = &["rs-ny.zlf.com"];
->>>>>>> 3cd7d6f28ce98b2cdc9613d57f4e55babe624fa5
+
 pub const RS_PUB_KEY: &str = "OeVuKk5nlHiXp+APNn0Y3pC1Iwpwn44JGqrQCsWqmBw=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
